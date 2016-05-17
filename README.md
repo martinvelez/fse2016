@@ -1,4 +1,4 @@
-FSE 2016 Issue Tracker
+FSE 2016
 ==========
 
 This is the issue tracker for the FSE 2016 website.  Let's use this to communicate and request changes.
