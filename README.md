@@ -4,11 +4,12 @@ This is the issue tracker for the FSE 2016 website.  Let's use this to communica
 
 http://www.cs.ucdavis.edu/fse2016/
 
-Web Chairs
+Request a Change
 ----------
-Martin Velez, marvelez AT ucdavis DOT edu
-
-Mona Rahimi, mrahimi AT siu DOT edu 
+1. Open an issue, https://github.com/martinvelez/fse2016/issues
+2. Or contact the web chairs, 
+   * Martin Velez, marvelez AT ucdavis DOT edu
+   * Mona Rahimi, mrahimi AT siu DOT edu 
 
 Organization Committee
 ------------------------------
