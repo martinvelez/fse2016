@@ -17,44 +17,44 @@ Organization Committee
 Thomas Zimmermann, Microsoft Research, USA
 
 ###Program Chairs
-Jane Cleland-Huang, DePaul University, USA
-Zhendong Su, University of California, Davis, USA
+* Jane Cleland-Huang, DePaul University, USA
+* Zhendong Su, University of California, Davis, USA
 
 ###Visions and Reflections Track Chairs
-Miryung Kim, University of California, Los Angeles, USA
-Darko Marinov, University of Illinois at Urbana-Champaign, USA
+* Miryung Kim, University of California, Los Angeles, USA
+* Darko Marinov, University of Illinois at Urbana-Champaign, USA
 
 ###Showcase Track Chairs
-Jo Atlee, University of Waterloo, Canada
-Gail Murphy, University of British Columbia, Canada
+* Jo Atlee, University of Waterloo, Canada
+* Gail Murphy, University of British Columbia, Canada
 
 ###Demonstration Track Chairs
-Alessandra Gorla, IMDEA Software Institute in Madrid, Spain
-Diomidis Spinellis, Athens University of Economics and Business, Greece
+* Alessandra Gorla, IMDEA Software Institute in Madrid, Spain
+* Diomidis Spinellis, Athens University of Economics and Business, Greece
 
 ###Industry Track Chairs
-John Penix, Google, USA
-Forrest Shull, Software Engineering Institute, USA
+* John Penix, Google, USA
+* Forrest Shull, Software Engineering Institute, USA
 
 ###Workshop Chairs
-Yuriy Brun, University of Massachusetts, Amherst, USA
-Mehdi Mirakhorli, Rochester Institute of Technology, USA
+* Yuriy Brun, University of Massachusetts, Amherst, USA
+* Mehdi Mirakhorli, Rochester Institute of Technology, USA
 
 ###Doctoral Symposium Chairs
-Felienne Hermans, Delft University of Technology, The Netherlands
-Emerson Murphy-Hill, North Carolina State University, USA
+* Felienne Hermans, Delft University of Technology, The Netherlands
+* Emerson Murphy-Hill, North Carolina State University, USA
 
 ###Artifacts Chairs
-Olga Baysal, Carleton University, Canada
-Tim Menzies, North Carolina State University, USA
+* Olga Baysal, Carleton University, Canada
+* Tim Menzies, North Carolina State University, USA
 
 ###Student Research Competition Chair
-Cindy Rubio González, University of California, Davis , USA
-Gustavo Soares, Federal University of Campina Grande, Brazil
+* Cindy Rubio González, University of California, Davis , USA
+* Gustavo Soares, Federal University of Campina Grande, Brazil
 
 ###Mentorship Chairs
-Reid Holmes, University of British Columbia, Canada
-Kathryn T. Stolee, North Carolina State University, USA
+* Reid Holmes, University of British Columbia, Canada
+* Kathryn T. Stolee, North Carolina State University, USA
 
 ###Proceedings Chair
 Thomas Fritz, University of Zurich, Switzerland
@@ -75,8 +75,8 @@ Brendan Murphy, Microsoft Research, USA
 Kim Herzig, Microsoft, USA
 
 ###Web Chairs
-Mona Rahimi, DePaul University, USA
-Martin Velez, University of California, Davis, USA
+* Mona Rahimi, DePaul University, USA
+* Martin Velez, University of California, Davis, USA
 
 ###Conference Experience
 Christian Bird, Microsoft Research, USA
