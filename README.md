@@ -1,5 +1,8 @@
 FSE 2016
 ==========
+
+![Seattle](http://www.cs.ucdavis.edu/fse2016/files/2015/08/seattle_1600x200.jpg)
+
 This is the issue tracker for the FSE 2016 website.  Let's use this to communicate and request changes.
 
 http://www.cs.ucdavis.edu/fse2016/
